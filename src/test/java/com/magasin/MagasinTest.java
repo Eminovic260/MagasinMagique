@@ -6,6 +6,34 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MagasinTest {
 
+
+    @Test
+    void testProduit() {
+        Item[] items = new Item[]{
+            new Item("Pass VIP Concert", 14, 21),
+            new Item("Comté", 10, 30),
+            new Item("Objet", 5, 10),
+            new Item("Kryptonite", 0, 80),
+            new Item("Pass VIP Concert", 5, 50),
+            new Item("Comté", 0, 50),
+            new Item("Objet", -1, 10),
+            new Item("Objet légendaire", 0, 80)
+
+        };
+
+        Magasin app = new Magasin(items);
+
+        for (int jour = 0; jour <= 15; jour++) {
+            System.out.println("Jour " + jour);
+            for (Item item : items) {
+                System.out.printf("Nom: %-18s | SellIn: %3d | Qualité: %2d%n",
+                    item.name, item.sellIn, item.quality);
+            }
+            System.out.println();
+            app.updateQuality();
+        }
+    }
+
     @Test
     void testItem() {
         Item[] items = new Item[]{new Item("Objet", 10, 20)};
