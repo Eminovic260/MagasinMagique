@@ -11,12 +11,15 @@ class MagasinTest {
     void testProduit() {
         Item[] items = new Item[]{
             new Item("Pass VIP Concert", 14, 21),
+            new Item("Pass VIP Concert", 10, 49),
+            new Item("Pass VIP Concert", 5, 49),
             new Item("Comté", 10, 30),
-            new Item("Objet", 5, 10),
-            new Item("Kryptonite", 0, 80),
-            new Item("Pass VIP Concert", 5, 50),
             new Item("Comté", 0, 50),
+            new Item("Objet", 5, 10),
             new Item("Objet", -1, 10),
+            new Item("Objet", -1, 1),
+            new Item("Kryptonite", 0, 80),
+            new Item("Kryptonite", -1, 81),
             new Item("Objet légendaire", 0, 80)
 
         };
