@@ -1,0 +1,102 @@
+======== JOUR 0 ========
+Nom: Pass VIP Concert | SellIn: 15 | Qualité: 20
+Nom: Comté            | SellIn: 10 | Qualité: 30
+Nom: Objet            | SellIn: 5  | Qualité: 10
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 1 ========
+Nom: Pass VIP Concert | SellIn: 14 | Qualité: 21
+Nom: Comté            | SellIn: 9  | Qualité: 31
+Nom: Objet            | SellIn: 4  | Qualité: 9
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 2 ========
+Nom: Pass VIP Concert | SellIn: 13 | Qualité: 22
+Nom: Comté            | SellIn: 8  | Qualité: 32
+Nom: Objet            | SellIn: 3  | Qualité: 8
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 3 ========
+Nom: Pass VIP Concert | SellIn: 12 | Qualité: 23
+Nom: Comté            | SellIn: 7  | Qualité: 33
+Nom: Objet            | SellIn: 2  | Qualité: 7
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 4 ========
+Nom: Pass VIP Concert | SellIn: 11 | Qualité: 24
+Nom: Comté            | SellIn: 6  | Qualité: 34
+Nom: Objet            | SellIn: 1  | Qualité: 6
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 5 ========
+Nom: Pass VIP Concert | SellIn: 10 | Qualité: 26
+Nom: Comté            | SellIn: 5  | Qualité: 35
+Nom: Objet            | SellIn: 0  | Qualité: 5
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 6 ========
+Nom: Pass VIP Concert | SellIn: 9  | Qualité: 28
+Nom: Comté            | SellIn: 4  | Qualité: 36
+Nom: Objet            | SellIn: -1 | Qualité: 3
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 7 ========
+Nom: Pass VIP Concert | SellIn: 8  | Qualité: 30
+Nom: Comté            | SellIn: 3  | Qualité: 37
+Nom: Objet            | SellIn: -2 | Qualité: 1
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 8 ========
+Nom: Pass VIP Concert | SellIn: 7  | Qualité: 32
+Nom: Comté            | SellIn: 2  | Qualité: 38
+Nom: Objet            | SellIn: -3 | Qualité: 0
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 9 ========
+Nom: Pass VIP Concert | SellIn: 6  | Qualité: 34
+Nom: Comté            | SellIn: 1  | Qualité: 39
+Nom: Objet            | SellIn: -4 | Qualité: 0
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 10 ========
+Nom: Pass VIP Concert | SellIn: 5  | Qualité: 37
+Nom: Comté            | SellIn: 0  | Qualité: 40
+Nom: Objet            | SellIn: -5 | Qualité: 0
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 11 ========
+Nom: Pass VIP Concert | SellIn: 4  | Qualité: 40
+Nom: Comté            | SellIn: -1 | Qualité: 41
+Nom: Objet            | SellIn: -6 | Qualité: 0
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 12 ========
+Nom: Pass VIP Concert | SellIn: 3  | Qualité: 43
+Nom: Comté            | SellIn: -2 | Qualité: 42
+Nom: Objet            | SellIn: -7 | Qualité: 0
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 13 ========
+Nom: Pass VIP Concert | SellIn: 2  | Qualité: 46
+Nom: Comté            | SellIn: -3 | Qualité: 43
+Nom: Objet            | SellIn: -8 | Qualité: 0
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 14 ========
+Nom: Pass VIP Concert | SellIn: 1  | Qualité: 49
+Nom: Comté            | SellIn: -4 | Qualité: 44
+Nom: Objet            | SellIn: -9 | Qualité: 0
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 15 ========
+Nom: Pass VIP Concert | SellIn: 0  | Qualité: 50
+Nom: Comté            | SellIn: -5 | Qualité: 45
+Nom: Objet            | SellIn: -10 | Qualité: 0
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
+======== JOUR 16 ========
+Nom: Pass VIP Concert | SellIn: -1 | Qualité: 0
+Nom: Comté            | SellIn: -6 | Qualité: 46
+Nom: Objet            | SellIn: -11 | Qualité: 0
+Nom: Kryptonite       | SellIn: 0  | Qualité: 80
+
